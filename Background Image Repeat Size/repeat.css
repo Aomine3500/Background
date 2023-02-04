@@ -1,0 +1,12 @@
+body {
+    background-image: url("RValley.png");
+    background-repeat: repeat;
+}
+
+/*
+Default value: Repeat
+other background-repeat values:
+ 1) repeat-x: repeat image horizantally
+ 2) repeat-y: repeat image vertically
+ 3) no-repeat: image not repeated
+*/
