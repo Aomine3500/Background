@@ -1,0 +1,7 @@
+body {
+    border: 2px solid red;
+    background-image: url("RValley.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    /* Background-position in pixel: x y*/
+}
